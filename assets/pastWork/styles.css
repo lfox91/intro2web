@@ -1,0 +1,19 @@
+main a {
+  display: inline-block;
+  width: 100%;
+}
+.item{
+  width: 200px;
+  height: 117px;
+}
+main img {
+  width: 100%;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media all and (min-width: 992px) { 
+  .item {
+    width: 350px;
+    height: 205px;
+  }
+}

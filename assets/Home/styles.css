@@ -1,0 +1,19 @@
+#face_wrapper {
+  text-align: center;
+}
+#face {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%; 
+  margin-bottom: 50px;
+}
+.tn {
+  max-width:128px;
+}
+span {
+  background: rgb(252, 217, 148);
+  padding: 10px 0;
+  margin: 10px 0;
+}
